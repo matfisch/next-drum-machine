@@ -1,0 +1,7 @@
+{
+  "name": "next-drum-machine-dev",
+  "engines": {
+    "node": "8.11.0"
+  },
+  "type": "docker"
+}
